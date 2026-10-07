@@ -1,7 +1,7 @@
 # Data Preprocessing, Cleaning & Visual Exploratory Analytics Pipeline
 
 ## 📌 Executive Summary
-This repository contains a complete end-to-end Data Preprocessing and Analytics Pipeline built in Python using *Pandas, **NumPy, **Matplotlib, and **Seaborn* inside Google Colab.
+This repository contains a complete end-to-end Data Preprocessing and Analytics Pipeline built in Python using Pandas, NumPy,Matplotlib, and Seaborn inside Google Colab.
 
 The project processes a raw transactional employee dataset by removing duplicate records, imputing missing feature values, capping extreme outliers using the Interquartile Range (IQR) technique, and generating exploratory data visualizations.
 
